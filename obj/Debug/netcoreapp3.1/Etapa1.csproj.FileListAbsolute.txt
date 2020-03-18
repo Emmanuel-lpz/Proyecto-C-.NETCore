@@ -1,0 +1,11 @@
+/home/emmanuel/proyectoNet/Etapa1/bin/Debug/netcoreapp3.1/Etapa1
+/home/emmanuel/proyectoNet/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.deps.json
+/home/emmanuel/proyectoNet/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.json
+/home/emmanuel/proyectoNet/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.dev.json
+/home/emmanuel/proyectoNet/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.dll
+/home/emmanuel/proyectoNet/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.pdb
+/home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.csprojAssemblyReference.cache
+/home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfoInputs.cache
+/home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfo.cs
+/home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.dll
+/home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.pdb
