@@ -1,5 +1,6 @@
 ﻿using System;
 using CoreEscuela.Entidades;
+using static System.Console;
 
 namespace Etapa1
 {
@@ -23,13 +24,13 @@ namespace Etapa1
 
         private static void ImprimirCursosEscuela(Escuela escuela)
         {
-            Console.WriteLine("====================");
-            Console.WriteLine("Cursos de la Escuela");
-            Console.WriteLine("====================");
+            WriteLine("====================");
+            WriteLine("Cursos de la Escuela");
+            WriteLine("====================");
 
             foreach (var curso in escuela.Cursos)
             {
-                Console.WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
+                WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
             }
         }
 
@@ -38,7 +39,7 @@ namespace Etapa1
             int contador = 0;
             while (contador < arregloCursos.Length)
             {
-                Console.WriteLine($"Nombre {arregloCursos[contador].Nombre}, Id {arregloCursos[contador].UniqueId}");
+                WriteLine($"Nombre {arregloCursos[contador].Nombre}, Id {arregloCursos[contador].UniqueId}");
                 contador += 1;
             }
         }
@@ -48,7 +49,7 @@ namespace Etapa1
             int contador = 0;
             do
             {
-                Console.WriteLine($"Nombre {arregloCursos[contador].Nombre}, Id {arregloCursos[contador].UniqueId}");
+                WriteLine($"Nombre {arregloCursos[contador].Nombre}, Id {arregloCursos[contador].UniqueId}");
                 contador += 1;
             } while (contador < arregloCursos.Length);
         }
@@ -56,7 +57,7 @@ namespace Etapa1
         {
             for (int i = 0; i < arregloCursos.Length; i++)
             {
-                Console.WriteLine($"Nombre {arregloCursos[i].Nombre}, Id {arregloCursos[i].UniqueId}");
+                WriteLine($"Nombre {arregloCursos[i].Nombre}, Id {arregloCursos[i].UniqueId}");
 
             }
 
@@ -65,7 +66,7 @@ namespace Etapa1
         {
             foreach (var curso in arregloCursos)
             {
-                Console.WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
+                WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
             }
 
         }
