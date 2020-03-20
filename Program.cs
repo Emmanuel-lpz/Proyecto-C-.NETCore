@@ -37,6 +37,8 @@ namespace Etapa1
             ImprimirCursosDoWhile(arregloCursos);
             System.Console.WriteLine("-------------------");
             ImprimirCursosFor(arregloCursos);
+            System.Console.WriteLine("-------------------");
+            ImprimirCursosForEach(arregloCursos);
 
         }
         private static void ImprimirCursosWhile(Curso[] arregloCursos)
@@ -64,6 +66,14 @@ namespace Etapa1
             {
                 Console.WriteLine($"Nombre {arregloCursos[i].Nombre}, Id {arregloCursos[i].UniqueId}");
 
+            }
+
+        }
+        private static void ImprimirCursosForEach(Curso[] arregloCursos)
+        {
+            foreach (var curso in arregloCursos)
+            {
+                Console.WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
             }
 
         }
