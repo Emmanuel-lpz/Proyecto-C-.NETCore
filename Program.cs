@@ -11,36 +11,28 @@ namespace Etapa1
                         ciudad: "Clombia"
                         );
 
-            var arregloCursos = new Curso[3];
-
-            arregloCursos[0] = new Curso()
-            {
-                Nombre = "101"
+            escuela.Cursos = new Curso[]{
+                new Curso(){Nombre = "101"},
+                new Curso(){Nombre = "201"},
+                new Curso(){Nombre = "301"}
             };
 
-            var curso2 = new Curso()
-            {
-                Nombre = "202"
-            };
-            arregloCursos[1] = curso2;
-
-            arregloCursos[2] = new Curso
-            {
-                Nombre = "303"
-            };
-
-
-            Console.WriteLine(escuela);
-            System.Console.WriteLine("-------------------");
-            ImprimirCursosWhile(arregloCursos);
-            System.Console.WriteLine("-------------------");
-            ImprimirCursosDoWhile(arregloCursos);
-            System.Console.WriteLine("-------------------");
-            ImprimirCursosFor(arregloCursos);
-            System.Console.WriteLine("-------------------");
-            ImprimirCursosForEach(arregloCursos);
+            ImprimirCursosEscuela(escuela);
 
         }
+
+        private static void ImprimirCursosEscuela(Escuela escuela)
+        {
+            Console.WriteLine("====================");
+            Console.WriteLine("Cursos de la Escuela");
+            Console.WriteLine("====================");
+
+            foreach (var curso in escuela.Cursos)
+            {
+                Console.WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
+            }
+        }
+
         private static void ImprimirCursosWhile(Curso[] arregloCursos)
         {
             int contador = 0;
