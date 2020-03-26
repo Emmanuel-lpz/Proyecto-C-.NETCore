@@ -28,10 +28,14 @@ namespace Etapa1
             WriteLine("Cursos de la Escuela");
             WriteLine("====================");
 
-            foreach (var curso in escuela.Cursos)
-            {
-                WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
-            }
+            if (escuela?.Cursos != null)
+
+                foreach (var curso in escuela.Cursos)
+                {
+                    WriteLine($"Nombre {curso.Nombre}, Id {curso.UniqueId}");
+                }
+
+
         }
 
         private static void ImprimirCursosWhile(Curso[] arregloCursos)
