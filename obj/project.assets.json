@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/emmanuel/.nuget/packages/": {}
+    "C:\\Users\\emman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/emmanuel/proyectoNet/Etapa1/Etapa1.csproj",
+      "projectUniqueName": "C:\\Users\\emman\\Documents\\Platzi\\Core\\Proyecto-C-.NETCore\\Etapa1.csproj",
       "projectName": "Etapa1",
-      "projectPath": "/home/emmanuel/proyectoNet/Etapa1/Etapa1.csproj",
-      "packagesPath": "/home/emmanuel/.nuget/packages/",
-      "outputPath": "/home/emmanuel/proyectoNet/Etapa1/obj/",
+      "projectPath": "C:\\Users\\emman\\Documents\\Platzi\\Core\\Proyecto-C-.NETCore\\Etapa1.csproj",
+      "packagesPath": "C:\\Users\\emman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emman\\Documents\\Platzi\\Core\\Proyecto-C-.NETCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/emmanuel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\emman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

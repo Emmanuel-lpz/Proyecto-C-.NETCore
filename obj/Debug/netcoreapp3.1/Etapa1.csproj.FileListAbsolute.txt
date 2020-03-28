@@ -9,3 +9,16 @@
 /home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfo.cs
 /home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.dll
 /home/emmanuel/proyectoNet/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.pdb
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\bin\Debug\netcoreapp3.1\Etapa1.exe
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\bin\Debug\netcoreapp3.1\Etapa1.deps.json
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.json
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.dev.json
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\bin\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\bin\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\obj\Debug\netcoreapp3.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\obj\Debug\netcoreapp3.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfo.cs
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\obj\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\obj\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\emman\Documents\Platzi\Core\Proyecto-C-.NETCore\obj\Debug\netcoreapp3.1\Etapa1.genruntimeconfig.cache
